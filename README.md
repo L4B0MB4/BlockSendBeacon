@@ -8,4 +8,4 @@ Chrome extension to block navigator.sendBeacon https://developer.mozilla.org/de/
 
 To minimize the amount of analytical data that is being sent this extension replaces navigator.sendBeacon with an empty function as soon as you load the page.
 
-![Example image](./images/example.png)
+![Example image](./images/example.PNG)
